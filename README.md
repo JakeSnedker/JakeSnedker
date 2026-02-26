@@ -28,6 +28,8 @@ Engineering Principles
 - Failure modes anticipated, not patched
 - Clean architecture > clever shortcuts
 
+ //------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working on ...
 AI-driven automation infrastructure and deterministic trading execution systems.
 - 🌱 I’m currently learning ...
