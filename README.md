@@ -8,25 +8,25 @@ I design and operate deterministic, risk-aware systems at the intersection of AI
 
 With a background in mechatronic engineering, I focus on:
 
- -End-to-end system ownership
- -API-driven automation pipelines
- -LLM-powered orchestration workflows
+- End-to-end system ownership
+- API-driven automation pipelines
+- LLM-powered orchestration workflows
 - Deterministic trading execution engines (MQL5 / C++)
- -Capital protection and risk enforcement mechanisms
+- Capital protection and risk enforcement mechanisms
 
 Core Engineering Focus
 
- -Automation architecture (n8n, APIs, state management)
- -Execution infrastructure (order routing, retry logic, validation layers)
- -Risk systems (drawdown enforcement, position sizing, kill-switch design)
- -Optimization analysis and robustness testing
+- Automation architecture (n8n, APIs, state management)
+- Execution infrastructure (order routing, retry logic, validation layers)
+- Risk systems (drawdown enforcement, position sizing, kill-switch design)
+- Optimization analysis and robustness testing
 
 Engineering Principles
 
- -Determinism over guesswork
- -Risk constraints enforced in code
- -Failure modes anticipated, not patched
- -Clean architecture > clever shortcuts
+- Determinism over guesswork
+- Risk constraints enforced in code
+- Failure modes anticipated, not patched
+- Clean architecture > clever shortcuts
 
 - 🔭 I’m currently working on ...
 AI-driven automation infrastructure and deterministic trading execution systems.
