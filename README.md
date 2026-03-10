@@ -1,43 +1,21 @@
-## Hi there 👋
+# Jake Snedker
 
-Jake Snedker
+Automation engineering (n8n) + ingestion pipelines + Google Sheets / Apps Script systems.
 
-Senior Automation Engineer | AI Systems Architect | Quantitative Trading Infrastructure
+I build reliable automation workflows with strong safety defaults: idempotency, retries, and observability. I keep public artifacts sanitized (no secrets, no client data).
 
-I design and operate deterministic, risk-aware systems at the intersection of AI automation and quantitative trading infrastructure.
+## Projects (start here)
+- Automation ingestion architecture (sanitized n8n exports + Supabase schema notes): https://github.com/JakeSnedker/snedker-automation-ingestion-architecture
+- Job application automation system (2-part workflow + screenshots/proof): https://github.com/JakeSnedker/job-application-automation-system
+- Christmas market sales allocation app (Apps Script web app + screenshots): https://github.com/JakeSnedker/christmas-market-sales-allocation-app
+- Legacy trading sheet toolkit (sanitized template + screenshots, built ~2021): https://github.com/JakeSnedker/legacy-trading-sheet-toolkit
+- n8n error handling workflow (logging + ntfy notifications, sanitized): https://github.com/JakeSnedker/-n8n-error-handling-workflow
 
-With a background in mechatronic engineering, I focus on:
+## Focus
+- Workflow automation: orchestration, retries, idempotency, error handling
+- Ingestion/RAG prep: cleaning, chunking, deterministic IDs, storage contracts
+- Spreadsheet systems: Apps Script web apps, operational reporting, templates
 
-- End-to-end system ownership
-- API-driven automation pipelines
-- LLM-powered orchestration workflows
-- Deterministic trading execution engines (MQL5 / C++)
-- Capital protection and risk enforcement mechanisms
-
-Core Engineering Focus
-
-- Automation architecture (n8n, APIs, state management)
-- Execution infrastructure (order routing, retry logic, validation layers)
-- Risk systems (drawdown enforcement, position sizing, kill-switch design)
-- Optimization analysis and robustness testing
-
-Engineering Principles
-
-- Determinism over guesswork
-- Risk constraints enforced in code
-- Failure modes anticipated, not patched
-- Clean architecture > clever shortcuts
-
- //------------------------------------------------------------------------------------
-
-- 🔭 I’m currently working on ...
-AI-driven automation infrastructure and deterministic trading execution systems.
-- 🌱 I’m currently learning ...
-Advanced optimization workflows, robustness testing, and scalable LLM orchestration.
-- 👯 I’m looking to collaborate on ...
-AI-powered automation systems, fintech infrastructure, and execution-layer tooling.
-- 💬 Ask me about ...
-utomation architecture, risk-enforced trading systems, and workflow reliability patterns.
-- 📫 How to reach me: ...
-snedkerautomations.com
-LinkedIn: linkedin.com/in/jake-snedker-a9674335
+## Contact
+- Website: https://snedkerautomations.com
+- LinkedIn: https://www.linkedin.com/in/jake-snedker-a9674335
